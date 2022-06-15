@@ -28,4 +28,4 @@ Once it has completed, you will see your song downloaded in your desired locatio
 ![image](https://user-images.githubusercontent.com/72354934/173896576-9f486d36-674d-44ec-b8d3-814a5a035635.png)
 
 **Downloading a Playlist**
-The steps are same, except you have to mention the playlist instead of a song name.
+The steps are the same, except you have to mention the playlist instead of a song name.
