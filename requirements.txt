@@ -1,3 +1,8 @@
 kivy
 kivymd
-tkinter
+termcolor
+pyfiglet
+youtube_search
+pypresence
+testresources
+spotipy
