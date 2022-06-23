@@ -1,19 +1,6 @@
 # spotify-music-downloader
 Download playlists and songs from spotify for free!
 
-**Visit:** https://github.com/Shashankh001/spotify-music-downloader/ for code.
-
-# Requirements:
-* kivy==2.1.0
-* kivymd
-* tkinter
-* termcolor
-* pyfiglet
-* youtube_search
-* pypresence
-* testrecources
-* spotipy
-
 **Main Menu**
 In this screen, you will be able to either download a playlist or download a song.
 
